@@ -1,0 +1,10 @@
+nombre_curso = "Ultimate Python"
+print(len(nombre_curso))
+print(nombre_curso)
+print(nombre_curso [2])
+print(nombre_curso [9])
+print(nombre_curso [3:8])
+print(nombre_curso [9:])
+print(nombre_curso [:])
+print(nombre_curso [:8])
+print(len(nombre_curso))

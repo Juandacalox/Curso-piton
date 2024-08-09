@@ -1,0 +1,12 @@
+animal = "     LOVER XA        "
+print(animal.strip().capitalize())
+print(animal.title())
+print(animal.lower())
+print(animal.upper())
+print(animal.strip())
+print(animal.lstrip())
+print(animal.rstrip().capitalize())
+print(animal.find("ER"))
+print(animal.replace("ER" , "DIE"))
+print("2R" not in animal)
+print("ER" in animal)
