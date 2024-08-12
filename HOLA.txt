@@ -1,0 +1,9 @@
+Introducción a los conceptos básicos de programación:
+
+Variables
+Espacios en memoria para almacenar datos
+Tipos de Datos
+Enteros (int): Números sin decimales.
+Flotantes (float): Números con decimales.
+Cadenas (str): Texto.
+Booleanos (bool): True o False.
